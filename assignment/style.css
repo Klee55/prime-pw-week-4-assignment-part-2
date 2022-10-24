@@ -2,3 +2,15 @@
     background: maroon;
     color: white;
 }
+
+img {
+    width: 50%;
+    height: 50%;
+
+}
+
+.myCar {
+    background: black;
+    color:red;
+
+}
